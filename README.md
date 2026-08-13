@@ -1,4 +1,3 @@
-# ARM Edge Server - API REST Resiliente e Baixo Consumo em Hardware Android Reciclado
-
-# Diagrama da Arquitetura:
+# Low-Power Network-Wide AdBlocker & Security DNS Server
+ Linux | Networking | Termux | Bash | Zero Cost
 
